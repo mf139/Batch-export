@@ -1,16 +1,18 @@
 ######################################################################################################################################
 #
-#	SCRIPT CODE: FM
+#	SCRIPT CODE: 
 #
 #	SCRIPT TITLE: Export plans from Clinical Database ANONYMISED
 #
-#   VERSION: 1.0
+#   VERSION:
+#   
+#   INTERPRETER: C-Python
 #
 #   ORIGINAL SCRIPT WRITTEN BY: Fatima Mahmood
 #
 #   DESCRIPTION & VERSION HISTORY: N/a
 #
-#	v1.0: (FM) <DESCRIPTION>
+#	   v1.0: (FM) <DESCRIPTION>
 #
 #                   _____________________________________________________________________________
 #                           
